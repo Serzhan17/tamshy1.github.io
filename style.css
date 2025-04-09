@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tamshy – Қаржылық сауаттылық платформасы</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Tamshy</h1>
+      <nav>
+        <a href="#home">Басты бет</a>
+        <a href="#services">Қызметтер</a>
+        <a href="#courses">Курстар</a>
+        <a href="#calculator">Калькулятор</a>
+        <a href="#form">Форма</a>
+        <a href="#contact">Байланыс</a>
+      </nav>
+    </div>
+  </header>
+
+  <section id="home" class="hero">
+    <img src="images/hero.jpg" alt="Hero" class="hero-img">
+    <h2>Tamshy – Қаржылық сауаттылыққа алғашқы қадам</h2>
+    <p>Tamshy – жастарға арналған қаржы және IT бағытындағы оқыту платформасы. Әрбір тамшы білім – болашақтағы үлкен өзенге айналады.</p>
+    <a href="#courses" class="btn">Курстарды бастау</a>
+  </section>
+
+  <footer id="contact">
+    <h4>Байланыс</h4>
+    <p>Email: hello@tamshy.kz | Instagram: @tamshy.kz | Telegram: @TamshyBot</p>
+    <p>© 2025 Tamshy. Барлық құқықтар қорғалған.</p>
+  </footer>
+</body>
+</html>
